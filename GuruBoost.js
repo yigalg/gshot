@@ -52,8 +52,8 @@ async function main() {
 
 
 
-
-   //await browser.close();
+   //All done, closing browser
+   await browser.close();
 }
 
 
